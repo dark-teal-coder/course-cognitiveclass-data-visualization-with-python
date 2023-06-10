@@ -10,5 +10,5 @@ This repository contains the code for the online course "Data Visualization with
 
 - <ins>Course Provider</ins>: IBM
 - <ins>Course Platform</ins>: Cognitive Class
-- <ins>Course Title</ins>: Data Visualization with Python
+- <ins>Course Title</ins>: DV0101EN Data Visualization with Python
 - <ins>Course URL</ins>: https://cognitiveclass.ai/courses/data-visualization-python
